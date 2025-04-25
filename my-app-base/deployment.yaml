@@ -17,6 +17,6 @@ spec:
       containers:
         - name: nginx
           imagePullPolicy: Always
-          image: harishnarang2018/nginx-lesson159
+          image: harishnarang2018/sheru159
           ports:
             - containerPort: 80
